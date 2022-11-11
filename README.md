@@ -1,6 +1,6 @@
 # AutoLoginMiniProj
 
-This repository is for practicing web scraping for the summer reasearch
+This repository is for practicing web scraping for the summer research
 
 ## Steps to run:
 
