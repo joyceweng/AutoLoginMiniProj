@@ -10,7 +10,7 @@ This repository is for practicing web scraping for the summer research
 
 3. Make sure Webdriver Manager for Python is installed. `pip3 install webdriver-manager`
 
-4. in `cred.py`, put in your username and password
+4. in `cred.py`, put in your email and password
 
 5. Launch terminal with this project's directory as the current working directory
 
